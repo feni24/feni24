@@ -2,11 +2,11 @@
 
 <h3 align="left">👩‍💻 About Me</h3>
 
-- <b>A passionate Full-Stack Software Developer from India.</b>
+- <b>A passionate Full-Stack Software Developer.</b>
 
-- 🌱 I’m currently learning **NestJS, Capacitor.**
+- 🌱 I’m currently learning **Spring Boot, AWS.**
 
-- 💬 Ask me about **HTML, CSS, SCSS, Tailwind,Javascript, Typescript, Angular, Ionic, Electron, SocketIO, Firebase, MySQL, Ionic.**
+- 💬 Ask me about **Javascript, Typescript, Angular, NodeJS, ReactJS, Java, Electron, SocketIO, Firebase, MySQL, Ionic, HTML, CSS, SCSS, Tailwind,**
 
 - 📫 How to reach me **fenipatel2404@gmail.com**
 
